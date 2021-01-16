@@ -1,0 +1,10 @@
+---
+de:
+  akku: |-
+    Der Akku ist fast leer!
+     Bitte entferne "den Akku" und lade ihn auf.
+     Das hilft, die Lebensdauer des Akkus zu verlängern.
+  forget: |2-
+
+    fahrzeug entfernen[%d]
+  title: Los geht's

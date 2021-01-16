@@ -1,0 +1,8 @@
+---
+fr:
+  akku: "La batterie est presque vide !\n Retire la \"batterie\" pour la recharger.
+    \nCela contribue à augmenter sa durée de vie."
+  forget: |2-
+
+    Ignorer l'vehicle en cours[%d]
+  title: C'est parti
