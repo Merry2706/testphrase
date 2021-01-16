@@ -1,0 +1,18 @@
+phraseapp:
+  access_token: xxx
+  project_id: xxx
+  file_format: strings
+  pull:
+    params: {format_options: { convert_placeholder : true } }
+    targets:
+    - file: ./en.lproj/Localizable.strings
+      params: {locale_id: xxx}
+    - file: ./de.lproj/Localizable.strings
+      params: {locale_id: xxx}
+    - file: ./es.lproj/Localizable.strings
+      params: {locale_id: xxx}
+    - file: ./es-MX.lproj/Localizable.strings
+      params: {locale_id: xxx}
+  push:
+    sources:
+    - file: ./en.lproj/Localizable.strings
